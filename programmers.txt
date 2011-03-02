@@ -1,0 +1,26 @@
+avrisp.name=AVR ISP
+avrisp.communication=serial
+avrisp.protocol=stk500v1
+
+avr910.name=AVR ISP 910
+avr910.communication=serial
+avr910.protocol=avr910
+avr910.speed=115200
+
+
+avrispmkii.name=AVRISP mkII
+avrispmkii.communication=usb
+avrispmkii.protocol=stk500v2
+
+usbtinyisp.name=USBtinyISP
+usbtinyisp.protocol=usbtiny
+
+parallel.name=Parallel Programmer
+parallel.protocol=dapa
+parallel.force=true
+# parallel.delay=200
+
+arduinoisp.name=Arduino as ISP
+arduinoisp.communication=serial
+arduinoisp.protocol=stk500v1
+arduinoisp.speed=19200
