@@ -1,6 +1,5 @@
 lcdi2c.name=lcdi2c ATMega32
 lcdi2c.upload.using=avr910
-
 lcdi2c.build.mcu=atmega32
 lcdi2c.build.f_cpu=14745600UL
 lcdi2c.build.core=arduino32
